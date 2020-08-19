@@ -1,4 +1,4 @@
-# Code Along: Using Bundler
+7# Code Along: Using Bundler
 
 ## Objectives
 
